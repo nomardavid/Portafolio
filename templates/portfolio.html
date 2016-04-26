@@ -1,0 +1,45 @@
+<section id="portfolio" ng-controller="portfolioController as portfolio">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="portfolio-area">
+            <div class="title-area">
+              <h2 class="tittle">Portafolio</h2>
+              <span class="tittle-line"></span>
+            </div>
+            <!-- Portfolio content -->
+            <div class="portfolio-content">
+                <!-- portfolio menu -->
+               <div class="portfolio-menu">
+                 <ul>
+                    <!--ng-model | filter-->
+                   <!--li class="filter">Filtro</li>
+                   <input type="search" name="filtro" placeholder="Buscar Proyecto" ng-model="busqueda"-->
+                 </ul>
+               </div>
+               <!-- Portfolio container -->
+               <!-- ng-repeat-->
+               <div id="mixit-container" class="portfolio-container col-md-12 col-sm-12 col-xs-12 text-center">
+                 <div class="single-portfolio mix branding col-md-4 col-xs-12" ng-repeat="proyect in proyects ">
+                   <div class="single-item">
+                     <img ng-src="{{proyect.image}}" alt="background proyect">
+                     <div class="single-item-content">
+                        <div class="portfolio-social-icon">
+                          <a class="fancybox" data-fancybox-group="gallery" ng-href="{{proyect.gallery}}"><i class="fa fa-eye"></i></a>
+                          <a class="link-btn" ng-href="{{proyect.modal}}"><i class="fa fa-link"></i></a>
+                        </div>
+                        <div class="portfolio-title">
+                          <h4>{{proyect.title}}</h4>
+                          <span>{{proyect.type}}</span>
+                        </div>
+                     </div>
+                   </div>
+                 </div>
+                </div>
+               </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>

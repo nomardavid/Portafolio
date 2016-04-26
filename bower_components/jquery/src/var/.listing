@@ -1,0 +1,17 @@
+drwxr-xr-x    2 devomarc   devomarc         4096 Mar 21 16:31 .
+drwxr-xr-x   15 devomarc   devomarc         4096 Mar 21 16:31 ..
+-rw-r--r--    1 devomarc   devomarc           38 Mar 24 23:08 arr.js
+-rw-r--r--    1 devomarc   devomarc           67 Mar 24 23:08 class2type.js
+-rw-r--r--    1 devomarc   devomarc           65 Mar 24 23:08 concat.js
+-rw-r--r--    1 devomarc   devomarc           38 Mar 24 23:08 deletedIds.js
+-rw-r--r--    1 devomarc   devomarc           51 Mar 24 23:08 document.js
+-rw-r--r--    1 devomarc   devomarc           89 Mar 24 23:08 documentElement.js
+-rw-r--r--    1 devomarc   devomarc           94 Mar 24 23:08 hasOwn.js
+-rw-r--r--    1 devomarc   devomarc           66 Mar 24 23:08 indexOf.js
+-rw-r--r--    1 devomarc   devomarc           84 Mar 24 23:08 pnum.js
+-rw-r--r--    1 devomarc   devomarc           63 Mar 24 23:08 push.js
+-rw-r--r--    1 devomarc   devomarc          121 Mar 24 23:08 rcssNum.js
+-rw-r--r--    1 devomarc   devomarc           46 Mar 24 23:08 rnotwhite.js
+-rw-r--r--    1 devomarc   devomarc           64 Mar 24 23:08 slice.js
+-rw-r--r--    1 devomarc   devomarc          102 Mar 24 23:08 support.js
+-rw-r--r--    1 devomarc   devomarc           88 Mar 24 23:08 toString.js

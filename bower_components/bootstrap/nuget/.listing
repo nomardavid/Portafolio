@@ -1,0 +1,5 @@
+drwxr-xr-x    2 devomarc   devomarc         4096 Mar 21 16:27 .
+drwxr-xr-x    8 devomarc   devomarc         4096 Mar 21 16:27 ..
+-rw-r--r--    1 devomarc   devomarc          468 Mar 24 23:04 MyGet.ps1
+-rw-r--r--    1 devomarc   devomarc         1272 Mar 24 23:04 bootstrap.less.nuspec
+-rw-r--r--    1 devomarc   devomarc         1247 Mar 24 23:04 bootstrap.nuspec

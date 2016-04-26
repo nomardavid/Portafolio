@@ -1,0 +1,12 @@
+drwxr-xr-x    2 devomarc   devomarc         4096 Mar 21 16:22 .
+drwxr-xr-x    7 devomarc   devomarc         4096 Mar 21 15:54 ..
+-rw-r--r--    1 devomarc   devomarc          467 Mar 24 22:59 .bower.json
+-rw-r--r--    1 devomarc   devomarc         1885 Mar 24 23:00 README.md
+-rw-r--r--    1 devomarc   devomarc          343 Mar 24 22:59 angular-csp.css
+-rw-r--r--    1 devomarc   devomarc      1127642 Mar 24 22:59 angular.js
+-rw-r--r--    1 devomarc   devomarc       154333 Mar 24 22:59 angular.min.js
+-rw-r--r--    1 devomarc   devomarc        54462 Mar 24 22:59 angular.min.js.gzip
+-rw-r--r--    1 devomarc   devomarc       415978 Mar 24 22:59 angular.min.js.map
+-rw-r--r--    1 devomarc   devomarc          133 Mar 24 22:59 bower.json
+-rw-r--r--    1 devomarc   devomarc           48 Mar 24 22:59 index.js
+-rw-r--r--    1 devomarc   devomarc          572 Mar 24 23:00 package.json

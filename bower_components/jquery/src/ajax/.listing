@@ -1,0 +1,9 @@
+drwxr-xr-x    3 devomarc   devomarc         4096 Mar 21 16:28 .
+drwxr-xr-x   15 devomarc   devomarc         4096 Mar 21 16:31 ..
+-rw-r--r--    1 devomarc   devomarc         2713 Mar 24 23:05 jsonp.js
+-rw-r--r--    1 devomarc   devomarc         2021 Mar 24 23:05 load.js
+-rw-r--r--    1 devomarc   devomarc          224 Mar 24 23:05 parseJSON.js
+-rw-r--r--    1 devomarc   devomarc          480 Mar 24 23:05 parseXML.js
+-rw-r--r--    1 devomarc   devomarc         1378 Mar 24 23:05 script.js
+drwxr-xr-x    2 devomarc   devomarc         4096 Mar 21 16:28 var
+-rw-r--r--    1 devomarc   devomarc         4258 Mar 24 23:05 xhr.js

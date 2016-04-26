@@ -1,0 +1,5 @@
+drwxr-xr-x    2 devomarc   devomarc         4096 Mar 21 16:29 .
+drwxr-xr-x    3 devomarc   devomarc         4096 Mar 21 16:29 ..
+-rw-r--r--    1 devomarc   devomarc          323 Mar 24 23:06 acceptData.js
+-rw-r--r--    1 devomarc   devomarc           68 Mar 24 23:06 dataPriv.js
+-rw-r--r--    1 devomarc   devomarc           68 Mar 24 23:06 dataUser.js

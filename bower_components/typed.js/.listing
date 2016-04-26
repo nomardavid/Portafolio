@@ -1,0 +1,13 @@
+drwxr-xr-x    4 devomarc   devomarc         4096 Mar 21 16:32 .
+drwxr-xr-x    7 devomarc   devomarc         4096 Mar 21 15:54 ..
+-rw-r--r--    1 devomarc   devomarc          606 Mar 24 23:08 .bower.json
+-rw-r--r--    1 devomarc   devomarc           38 Mar 24 23:08 .gitignore
+-rw-r--r--    1 devomarc   devomarc         1077 Mar 24 23:08 LICENSE.txt
+-rw-r--r--    1 devomarc   devomarc         4927 Mar 24 23:08 README.md
+-rw-r--r--    1 devomarc   devomarc          328 Mar 24 23:08 bower.json
+drwxr-xr-x    2 devomarc   devomarc         4096 Mar 21 16:31 dist
+-rw-r--r--    1 devomarc   devomarc          324 Mar 24 23:08 gulpfile.js
+-rw-r--r--    1 devomarc   devomarc         2637 Mar 24 23:08 index.htm
+drwxr-xr-x    2 devomarc   devomarc         4096 Mar 21 16:32 js
+-rw-r--r--    1 devomarc   devomarc          979 Mar 24 23:08 main.css
+-rw-r--r--    1 devomarc   devomarc          400 Mar 24 23:08 package.json

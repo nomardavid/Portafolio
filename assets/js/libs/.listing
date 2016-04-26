@@ -1,0 +1,13 @@
+drwxr-xr-x    2 devomarc   devomarc         4096 Mar 21 16:21 .
+drwxr-xr-x    4 devomarc   devomarc         4096 Mar 24 22:49 ..
+-rw-r--r--    1 devomarc   devomarc        68890 Mar 24 22:58 bootstrap.js
+-rw-r--r--    1 devomarc   devomarc         7254 Mar 24 22:58 custom.js
+-rw-r--r--    1 devomarc   devomarc         2576 Mar 24 22:58 jquery.counterup.js
+-rw-r--r--    1 devomarc   devomarc         1067 Mar 24 22:58 jquery.counterup.min.js
+-rw-r--r--    1 devomarc   devomarc        23187 Mar 24 22:58 jquery.fancybox.pack.js
+-rw-r--r--    1 devomarc   devomarc        52224 Mar 24 22:58 jquery.mixitup.js
+-rw-r--r--    1 devomarc   devomarc        79234 Mar 24 22:58 slick.js
+-rw-r--r--    1 devomarc   devomarc          357 Mar 24 22:58 typedfunction.js
+-rw-r--r--    1 devomarc   devomarc        13297 Mar 24 22:58 waypoints.js
+-rw-r--r--    1 devomarc   devomarc         8044 Mar 24 22:58 waypoints.min.js
+-rw-r--r--    1 devomarc   devomarc        15547 Mar 24 22:58 wow.js
